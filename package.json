@@ -1,0 +1,24 @@
+{
+  "name": "todo-god",
+  "version": "1.0.0",
+  "description": "Super TODO app built with React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "NE_KIT",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/classnames": "^2.2.4",
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "classnames": "^2.2.6",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2"
+  }
+}
